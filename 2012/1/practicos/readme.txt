@@ -5,4 +5,4 @@ En esta carpeta cada alumno colocara tambien sus proyectos para que sean revisad
 y probablemente tambien utilizados por sus companeros.
 
 Cada alumno, al subir su codigo en esta plataforma acepta la licencia MIT
-para el codigo que escriba.
+para el codigo que escriba
