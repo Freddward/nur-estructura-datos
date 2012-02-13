@@ -1,0 +1,24 @@
+Informe Práctico No.1
+“Algoritmos de Ordenamiento”
+
+La aplicación está dividida en tres paquetes: Graphics, que maneja todos los paneles y ventanas; 
+Logic, que maneja los métodos de Ordenamiento y el Arreglo sobre el cual se trabaja; y el paquete 
+Main donde se encuentra la clase principal que controla el resto y maneja el Logger.
+Está basado en la guía que se dio en clases sobre MVC (Modelo, Vista y Controlador) y aplica el 
+patrón Observer. Los algoritmos que utilizo los tome de Wikipedia.
+En la Clase Alghosot cuento con un método disorder, que es el encargado de desordenar el arreglo 
+que está lleno de números sucesivos del 1 al 200 para lograr un mejor efecto visual.
+Lo que me llevo más tiempo fue lograr la animación de las líneas ya que no encontraba como hacer 
+la pausa que usted me indico en clases. Luego consultando con personas de semestres superiores di 
+con estas líneas de código:
+try {
+       				Thread.sleep(50);
+} catch (Exception e) {
+        				e.printStackTrace();
+}
+
+Que lo que hace es “dormir” el pintado durante 50 milisegundos y así lograr la animación.
+También tuve problemas al subir mi aplicación con el SVN desde mi casa, porque tenía problemas 
+con el proxy así que llegue temprano y lo subí aquí.
+
+	
