@@ -1,0 +1,8 @@
+2012-02-27 08:00:30,118 [AWT-EventQueue-0] appsmandel.Mandelbrot.setMovHor(Mandelbrot.java:66) - Se recorrio el fractal hacia la Izquierda
+2012-02-27 08:00:30,119 [AWT-EventQueue-0] appsmandel.Mandelbrot.setMovVer(Mandelbrot.java:90) - Se recorrio el fractal hacia arriba
+2012-02-27 08:00:34,671 [AWT-EventQueue-0] appsmandel.Mandelbrot.setTamano(Mandelbrot.java:104) - El tamaño de la image es: 1270.0
+2012-02-27 08:00:34,671 [AWT-EventQueue-0] appsmandel.Mandelbrot.setMovHor(Mandelbrot.java:66) - Se recorrio el fractal hacia la Izquierda
+2012-02-27 08:00:34,672 [AWT-EventQueue-0] appsmandel.Mandelbrot.setMovVer(Mandelbrot.java:90) - Se recorrio el fractal hacia arriba
+2012-02-27 08:00:39,551 [AWT-EventQueue-0] appsmandel.Mandelbrot.setTamano(Mandelbrot.java:104) - El tamaño de la image es: 1770.0
+2012-02-27 08:00:39,552 [AWT-EventQueue-0] appsmandel.Mandelbrot.setMovHor(Mandelbrot.java:66) - Se recorrio el fractal hacia la Izquierda
+2012-02-27 08:00:39,552 [AWT-EventQueue-0] appsmandel.Mandelbrot.setMovVer(Mandelbrot.java:90) - Se recorrio el fractal hacia arriba
