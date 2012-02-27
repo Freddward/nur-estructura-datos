@@ -1,0 +1,14 @@
+2012-02-27 01:41:35,603 [main] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:41:37,021 [AWT-EventQueue-0] mandelbrot.MandelBrot.mouseClicked(MandelBrot.java:114) - Entro al clicked
+ 2012-02-27 01:41:37,023 [AWT-EventQueue-0] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:41:45,461 [AWT-EventQueue-0] mandelbrot.MandelBrot.mouseClicked(MandelBrot.java:114) - Entro al clicked
+ 2012-02-27 01:41:45,462 [AWT-EventQueue-0] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:42:02,710 [main] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:42:04,669 [AWT-EventQueue-0] mandelbrot.MandelBrot.mouseClicked(MandelBrot.java:114) - Entro al clicked
+ 2012-02-27 01:42:04,672 [AWT-EventQueue-0] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:43:30,857 [main] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:43:32,021 [AWT-EventQueue-0] mandelbrot.MandelBrot.mouseClicked(MandelBrot.java:110) - Entro al clicked
+ 2012-02-27 01:43:32,023 [AWT-EventQueue-0] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 2012-02-27 01:43:34,461 [AWT-EventQueue-0] mandelbrot.MandelBrot.mouseClicked(MandelBrot.java:110) - Entro al clicked
+ 2012-02-27 01:43:34,462 [AWT-EventQueue-0] mandelbrot.MandelBrot.DibujoMandelbrot(MandelBrot.java:49) - Mandelbrot
+ 
