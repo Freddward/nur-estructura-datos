@@ -1,0 +1,20 @@
+2012-02-27 06:46:20,686 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:49) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:22,698 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:38) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:23,198 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:49) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:25,085 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:38) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:25,678 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:49) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:27,129 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:38) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:27,644 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:49) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:29,344 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:38) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:30,030 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:49) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:31,481 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:38) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:46:32,277 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:49) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:49:57,120 [main] proyecto2mandelbrot.fraktal.<init>(fraktal.java:118) - log4j Warning (104,9)
+ 2012-02-27 06:49:57,323 [main] proyecto2mandelbrot.fraktal.<init>(fraktal.java:129) - log4j Calculando en Coordenadas -2.1; -1.3; 3;1
+ 2012-02-27 06:54:34,032 [main] proyecto2mandelbrot.fraktal.<init>(fraktal.java:121) - log4j Warning (104,9)
+ 2012-02-27 06:54:34,250 [main] proyecto2mandelbrot.fraktal.<init>(fraktal.java:132) - log4j Calculando en Coordenadas -2.1; -1.3; 3;1
+ 2012-02-27 06:54:38,088 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:40) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:54:38,899 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:51) - log4j Liberando el mouse en Coordenadas X Y
+ 2012-02-27 06:54:40,132 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mousePressed(fraktal.java:40) - log4j colocando el mouse en Coordenadas X Y
+ 2012-02-27 06:54:40,849 [AWT-EventQueue-0] proyecto2mandelbrot.fraktal.mouseReleased(fraktal.java:51) - log4j Liberando el mouse en Coordenadas X Y
+ 
