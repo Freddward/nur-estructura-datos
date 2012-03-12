@@ -49,11 +49,12 @@ public class Morphing extends Observable {
                 int green = img1Color.getGreen() + ((img2Color.getGreen() - img1Color.getGreen()) / phases) * k;
                 int blue = img1Color.getBlue() + ((img2Color.getBlue() - img1Color.getBlue()) / phases) * k;
                 imageActual.setRGB(i, j, new Color(red, green, blue).getRGB());
-                setChanged();
-                notifyObservers();
+
             }
         }
-         logger.info("Se obtiene el color de cada imagen, componente por componente(RED,GREEN,BLUE)");
+        setChanged();
+        notifyObservers();
+        logger.info("Se obtiene el color de cada imagen, componente por componente(RED,GREEN,BLUE)");
         return imageActual;
     }
 }
