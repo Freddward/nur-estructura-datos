@@ -16,7 +16,6 @@ import javax.swing.JPanel;
  * @author Williams
  */
 public class Mipanel extends JPanel implements Observer  {
-     
     private BufferedImage pantalla;
     public Mipanel() {   
         super();
@@ -28,13 +27,11 @@ public class Mipanel extends JPanel implements Observer  {
      @Override
     public void paintComponent(Graphics g) {
          
-         g.drawImage(pantalla, 0, 0, this);  
-       
+         g.drawImage(pantalla, 0, 0, this);    
     }
     public void update(Observable o, Object arg) {
         repaint();
     }
-   
 }
    
    
