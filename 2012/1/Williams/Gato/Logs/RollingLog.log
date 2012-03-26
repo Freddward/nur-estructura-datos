@@ -1,0 +1,74 @@
+2012-03-26 07:36:21,959 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:21,975 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 1
+ 2012-03-26 07:36:22,958 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton0 2
+ 2012-03-26 07:36:22,958 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:22,958 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 1
+ 2012-03-26 07:36:23,769 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton1 2
+ 2012-03-26 07:36:23,769 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:23,769 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 0
+ 2012-03-26 07:36:25,298 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton2 0
+ 2012-03-26 07:36:25,298 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:25,298 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 2 1
+ 2012-03-26 07:36:25,298 [AWT-EventQueue-0] gato.Botones.regla(Botones.java:109) - ganador es Computadora
+ 2012-03-26 07:36:29,791 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton0 0
+ 2012-03-26 07:36:29,791 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:29,791 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 1
+ 2012-03-26 07:36:30,321 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton0 1
+ 2012-03-26 07:36:30,321 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:30,321 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 0
+ 2012-03-26 07:36:31,819 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton1 2
+ 2012-03-26 07:36:31,819 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:31,819 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 2 1
+ 2012-03-26 07:36:34,673 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton2 0
+ 2012-03-26 07:36:34,673 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:34,673 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 2
+ 2012-03-26 07:36:35,890 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador williams le dio en el boton2 2
+ 2012-03-26 07:36:35,890 [AWT-EventQueue-0] gato.Botones.regla(Botones.java:109) - ganador es Hubo un empate
+ 2012-03-26 07:36:35,890 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:36:35,890 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 0
+ 2012-03-26 07:59:16,211 [main] gato.Botones.<init>(Botones.java:35) - Inicio Juego
+ 2012-03-26 07:59:18,431 [main] gato.Botones.setBotones(Botones.java:51) - nombre del jugador es asd
+ 2012-03-26 07:59:19,450 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton0 0
+ 2012-03-26 07:59:21,955 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:21,956 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 1
+ 2012-03-26 07:59:22,882 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton0 2
+ 2012-03-26 07:59:22,882 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:22,882 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 1
+ 2012-03-26 07:59:23,859 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton2 2
+ 2012-03-26 07:59:23,859 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:23,859 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 0
+ 2012-03-26 07:59:25,402 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton2 0
+ 2012-03-26 07:59:25,403 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:25,403 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 2
+ 2012-03-26 07:59:25,404 [AWT-EventQueue-0] gato.Botones.regla(Botones.java:109) - ganador es Computadora
+ 2012-03-26 07:59:29,378 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton0 1
+ 2012-03-26 07:59:29,380 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:29,380 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 1
+ 2012-03-26 07:59:30,290 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton2 1
+ 2012-03-26 07:59:30,291 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:30,291 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 0
+ 2012-03-26 07:59:31,323 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton1 2
+ 2012-03-26 07:59:31,323 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:31,323 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 0
+ 2012-03-26 07:59:32,722 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton2 2
+ 2012-03-26 07:59:32,722 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:32,723 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 2
+ 2012-03-26 07:59:33,506 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton2 0
+ 2012-03-26 07:59:33,507 [AWT-EventQueue-0] gato.Botones.regla(Botones.java:109) - ganador es asd
+ 2012-03-26 07:59:33,507 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:33,507 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 0
+ 2012-03-26 07:59:42,290 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton0 1
+ 2012-03-26 07:59:42,291 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:42,291 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 1
+ 2012-03-26 07:59:44,186 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton0 0
+ 2012-03-26 07:59:44,186 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:44,187 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 0
+ 2012-03-26 07:59:45,274 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton0 2
+ 2012-03-26 07:59:45,301 [AWT-EventQueue-0] gato.Botones.regla(Botones.java:109) - ganador es asd
+ 2012-03-26 07:59:45,302 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:45,302 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 1 2
+ 2012-03-26 07:59:45,302 [AWT-EventQueue-0] gato.Botones.regla(Botones.java:109) - ganador es Computadora
+ 2012-03-26 07:59:54,962 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:77) - Jugador asd le dio en el boton1 1
+ 2012-03-26 07:59:54,962 [AWT-EventQueue-0] gato.IA.PosiblesJugada(IA.java:56) - se terminaron de insertar las posibles jugadas
+ 2012-03-26 07:59:54,962 [AWT-EventQueue-0] gato.Botones.actionPerformed(Botones.java:86) - la Computadora le dio en el boton 0 1
+ 
