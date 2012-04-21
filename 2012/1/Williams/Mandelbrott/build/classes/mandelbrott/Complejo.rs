@@ -1,1 +1,0 @@
-mandelbrott.complejo
