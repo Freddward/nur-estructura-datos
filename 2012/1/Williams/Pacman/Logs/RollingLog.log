@@ -1,0 +1,41 @@
+2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 36 con 37
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 35 con 36
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 20 con 35
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 5 con 20
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 54 con 69
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 39 con 54
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 24 con 39
+ 2012-05-14 06:52:09,957 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 9 con 24
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 8 con 9
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 7 con 8
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 6 con 7
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 5 con 6
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 4 con 5
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 3 con 4
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 18 con 3
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 33 con 18
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 32 con 33
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 31 con 32
+ 2012-05-14 06:52:09,958 [main] pacman.RellenadorGrafo.relaciones(RellenadorGrafo.java:43) - se relaciono el nodo 16 con 31
+ 2012-05-14 06:52:09,958 [main] pacman.MiFrame.<init>(MiFrame.java:37) - se inicializo el rellenador de imagen
+ 2012-05-14 06:52:11,814 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 1 al 35
+ 2012-05-14 06:52:12,995 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 35 al 69
+ 2012-05-14 06:52:13,779 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 69 al 68
+ 2012-05-14 06:52:14,516 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 68 al 67
+ 2012-05-14 06:52:16,484 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 67 al 65
+ 2012-05-14 06:52:17,148 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 65 al 64
+ 2012-05-14 06:52:17,657 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 64 al 63
+ 2012-05-14 06:52:18,276 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 63 al 62
+ 2012-05-14 06:52:19,053 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 62 al 61
+ 2012-05-14 06:52:29,085 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 61 al 128
+ 2012-05-14 06:52:44,804 [AWT-EventQueue-0] pacman.MiPanel.mouseClicked(MiPanel.java:129) - se movio el personaje del nodo 128 al 188
+ 2012-05-14 07:37:33,171 [main] pacman.MiFrame.<init>(MiFrame.java:33) - se inicialiso el rellenador de nodos
+ 2012-05-14 07:37:33,202 [main] pacman.RellenadorGrafo.relleado(RellenadorGrafo.java:31) - relleno 225 nodos
+ 2012-05-14 07:37:34,092 [main] pacman.MiFrame.<init>(MiFrame.java:37) - se inicializo el rellenador de imagen
+ 2012-05-14 07:38:09,114 [main] pacman.MiFrame.<init>(MiFrame.java:33) - se inicialiso el rellenador de nodos
+ 2012-05-14 07:38:09,114 [main] pacman.RellenadorGrafo.relleado(RellenadorGrafo.java:31) - relleno 225 nodos
+ 2012-05-14 07:38:09,613 [main] pacman.MiFrame.<init>(MiFrame.java:37) - se inicializo el rellenador de imagen
+ 2012-05-14 07:38:41,827 [main] pacman.MiFrame.<init>(MiFrame.java:33) - se inicialiso el rellenador de nodos
+ 2012-05-14 07:38:41,827 [main] pacman.RellenadorGrafo.relleado(RellenadorGrafo.java:31) - relleno 225 nodos
+ 2012-05-14 07:38:42,295 [main] pacman.MiFrame.<init>(MiFrame.java:37) - se inicializo el rellenador de imagen
+ 
