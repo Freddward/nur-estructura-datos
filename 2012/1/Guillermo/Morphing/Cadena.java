@@ -9,7 +9,7 @@ import java.util.Observable;
 import org.apache.log4j.Logger;
 
 /**
- *
+ * pppp
  * @author G & M
  */
 public class Cadena<E> extends Observable{
